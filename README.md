@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Eriq-code
-- 👀 I’m interested in Data Science & Programming
-- 🌱 I’m currently learning Software Engineering 
+- 👋 Hi, I’m Erick Kariuki
+- 🌱 I’m currently a Software Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: Simplexcreatives@gmail.com
 
